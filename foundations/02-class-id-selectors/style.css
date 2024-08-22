@@ -1,0 +1,17 @@
+.firstclass{
+    background-color: rgb(240, 155, 169);
+    font-family: "Verdana", "DejaVu Sans", sans-serif;
+}
+.coolclass{
+    font-size: 24px;
+}
+#firstid{
+    color: #1b1bf5;
+    font-size: 36px;
+}
+#secondid{
+    background-color: rgb(140, 212, 140);
+    font-weight: bold;
+    font-size: 24px;
+
+}
